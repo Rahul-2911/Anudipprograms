@@ -1,7 +1,6 @@
 /*
  * author rahul prasad
  */
-package com.example1;
 public class MatrixTransposeExample
 {  
 		public static void main(String args[]){  
